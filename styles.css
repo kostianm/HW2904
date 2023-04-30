@@ -1,0 +1,50 @@
+body {
+    max-width: 900px;
+    margin: auto;
+}
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    background-color: rgb(4, 170, 109);
+    border-radius: 5px;
+    color: #fff;
+    display: block;
+    padding: 5px;
+}
+
+.example {
+    background-color: rgb(231, 233, 235);
+	padding: 10px;
+	margin: 20px 0;
+}
+
+.white {
+    background-color: #fff;
+    color: #000;
+}
+
+code {
+    background-color: #fff;
+	display: block;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.selector {
+    color: rgb(165, 42, 42);
+}
+
+.property {
+    color: rgb(255, 0, 0);
+}
+
+.value {
+    color: rgb(0, 0, 205);
+}
+a {
+	color: #000;
+}
